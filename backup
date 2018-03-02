@@ -1,18 +1,16 @@
+ 
 <!DOCTYPE html>
 <html>
   <head>
     <title>ROCK PAPER SCISSORS CHAMPIONSHIP</title>
     <meta content="">
-    <link rel="stylesheet" href="style.css">
-    <style></style>
+    <style rel="stylesheet" href="style.css"></style>
   </head>
   <body>
       <div id="grid">
 
 
-        <div id="banner"></div>
         <div id="logo"><img src="images/logo"></div>
-        <div id="banner2"></div>
         <div id="main_page">
           <div id="app">
             <p>
